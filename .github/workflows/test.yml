@@ -1,4 +1,4 @@
-oname: Build and Test PyKaldi
+name: Build and Test PyKaldi
 
 on:
   workflow_dispatch:
